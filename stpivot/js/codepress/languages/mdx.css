@@ -1,0 +1,10 @@
+/*
+ * CodePress color styles for MDX syntax highlighting
+ * By Karel Reynaldo
+ */
+
+b {color:#0000FF;font-style:normal;font-weight:bold;} /* reserved words */
+u {color:#555555;font-style:normal;} /* normal */
+f {color:#FF0080;font-style:italic;} /* functions */
+s {color:#2A00FF;font-weight:normal;} /* strings */
+i, i b, i u, i f, i s  {color:#A9A9A9;font-weight:normal;font-style:italic;} /* comments */
