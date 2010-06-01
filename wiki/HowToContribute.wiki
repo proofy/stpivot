@@ -1,0 +1,10 @@
+#summary How to contribute to *stpivot*
+
+= Introduction =
+
+... (under construction) ...
+
+
+= Details =
+
+...
