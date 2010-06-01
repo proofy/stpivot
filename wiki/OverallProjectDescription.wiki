@@ -1,6 +1,6 @@
-#summary One-sentence summary of this page.
 #labels Featured
-Overall description of stpivot project
+#Overall description of stpivot project
+
 = Introduction =
 
 *stpivot* is a modified version of default _Pivot viewer_ in *Pentaho BI*, derived from *JPivot* project. It can also be successfully adapted to any web application currently embedding JPivot's interface. Enhancements occurs mainly in user interface and interactions, taking advantage of javascript to improve user experience.
