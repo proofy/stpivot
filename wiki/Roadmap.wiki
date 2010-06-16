@@ -1,4 +1,6 @@
+#summary Where is stpivot going to?
 #labels Featured
+
 We are looking forward to:
     * Include hability to save current view into Pentaho's solutions 
 repository
