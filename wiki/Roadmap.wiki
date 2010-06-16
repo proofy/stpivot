@@ -1,19 +1,16 @@
 #summary Where is stpivot going to?
 #labels Featured
 
-We are looking forward to:
-    * Include hability to save current view into Pentaho's solutions 
-repository
+==We are looking forward to==
+    * Include hability to save current view into Pentaho's solutions repository
     * Improve i18n
     * Improve look&feel
     * Improve MDX Editor (probably by using EditArea)
     * Improve options dialogs
 
-We also plan  to:
-    * Create a new brand to be use in conjunction with JPivot, not only 
-with Pentaho BI Server
-    * Create a new brand with a recompiled version of JPivot with new 
-features like:
+==We also plan  to==
+    * Create a new brand to be use in conjunction with JPivot, not only with Pentaho BI Server
+    * Create a new brand with a recompiled version of JPivot with new features like:
         * Subtotal and Average buttons on toolbar
         * Using OpenFlashCharts instead of JFreeChart
         * Ability to link members to drill urls
